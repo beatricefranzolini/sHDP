@@ -1,5 +1,5 @@
 # sHDP
-Code used for the paper "Model Selection for Maternal Hypertensive Disorders with Symmetric Hierarchical Dirichlet Processes" by B. Franzolini, A. Lijoi and I. Pruenster
+Code used for the paper "\textit{Model Selection for Maternal Hypertensive Disorders with Symmetric Hierarchical Dirichlet Processes}" by B. Franzolini, A. Lijoi and I. Pruenster
 
 
 Files description:

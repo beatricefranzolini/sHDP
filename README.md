@@ -1,5 +1,7 @@
 # sHDP
 Code used for the paper "Model Selection for Maternal Hypertensive Disorders with Symmetric Hierarchical Dirichlet Processes" by B. Franzolini, A. Lijoi and I. Pruenster
+
+
 Files description:
 
 ANOVA_sHDP.py --> Python functions to estimate the model (needed to run main.py and main_simul.py).

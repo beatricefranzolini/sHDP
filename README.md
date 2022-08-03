@@ -23,5 +23,5 @@ Files description:
 ## meanscrediblebounds 
 --> Python code to run to compute and plot means credible intervals (to run after main.py).
 
-##output_sum 
+## output_sum 
 --> Python code to run to reproduce summaries for real data (to run after main.py).

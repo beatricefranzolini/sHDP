@@ -1,6 +1,6 @@
 # sHDP
 Code used for the paper "Model Selection for Maternal Hypertensive Disorders with Symmetric Hierarchical Dirichlet Processes" by B. Franzolini, A. Lijoi and I. Pruenster, 
-The Annals of Applied Statistics 17(1): 313-332. DOI:10.1214/22-AOAS1628
+The Annals of Applied Statistics 17(1): 313-332. March 2023. DOI:10.1214/22-AOAS1628
 
 
 Files description:
